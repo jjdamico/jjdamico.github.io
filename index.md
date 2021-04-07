@@ -9,7 +9,7 @@ banner_subtitle: A collection of inspirational Christian music composed by Joe D
 background_image: /images/background.jpg
 
 # all of the following variables are optional -----------------
-page_url: /hello # only include this variable if you aren't building the page to your primary domain 
+#page_url: /hello # only include this variable if you aren't building the page to your primary domain 
 
 # favicon
 favicon: /assets/ico/icon.ico
@@ -24,8 +24,8 @@ favicon: /assets/ico/icon.ico
 # By declaring these variables, you can include a button that links to an external website or to media.
 about_button: https://rumble.com/joedamico # the link
 about_button_label: Rumble # the label on the button
-about_button: https://youtube.com/channel/UCwOZgrXfJi9ovBS5DNgx4vw # the link
-about_button_label: YouTube # the label on the button
+about_button2: https://youtube.com/channel/UCwOZgrXfJi9ovBS5DNgx4vw # the link
+about_button2_label: YouTube # the label on the button
 
 # optional portfolio section ------------------------------------------
 
