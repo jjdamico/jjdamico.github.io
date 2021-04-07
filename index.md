@@ -41,7 +41,7 @@ portfolio: music # the heading for your portfolio and title of your YAML file
 # By declaring these variables, you can include a CTA section.
 cta: connect # the heading for your CTA section
 cta_description: questions, comments, or concerns? please don't hesitate to reach out. # a description to be desplayed below the heading and above the content
-cta_button: mailto:saragong@usc.edu # a link to an external website or to media
+cta_button: mailto: # a link to an external website or to media
 cta_button_label: contact # the label on the button
 
 ---			
