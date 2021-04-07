@@ -2,6 +2,7 @@
 # in the root directory
 
 music:
+- item: rumble.html
   - category:
     items:
       - item: rumble.html
