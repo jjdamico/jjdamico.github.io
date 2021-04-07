@@ -6,13 +6,13 @@ layout: hello-default
 # these variables are required -------------------------------
 banner_title: hello for github pages
 banner_subtitle: a minimalist template for personal websites
-background_image: /images/background.jpeg
+background_image: /images/background.jpg
 
 # all of the following variables are optional -----------------
 page_url: /hello # only include this variable if you aren't building the page to your primary domain 
 
 # favicon
-favicon: /assets/ico/favicon.ico
+favicon: /assets/ico/icon.ico
 
 # social media
 twitter_username: notsaragong # # your twitter handle
