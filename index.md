@@ -34,14 +34,14 @@ about_button3_label: Odysee # the label on the button
 # By declaring these variables, you can include a portfolio showcasing your work and organize your portfolio's items into a custom layout, all without adding any CSS. In addition, you must 1) create an HTML file in the_includes folder for each project with the text you'd like to display, and 2) create a YAML file in the _data folder describing the order in which each project should be shown and categorized. See `/includes/example.html` and `/_data/work.yml` for examples.
 
 portfolio: music # the heading for your portfolio and title of your YAML file
-#portfolio_description: Here you can find links to various video sharing platforms hosting Christian music composed by Joe D’Amico.
+portfolio_description: Check out my newest content:
 
 # optional CTA section --------------------------------------------------
 
 # By declaring these variables, you can include a CTA section.
 cta: connect # the heading for your CTA section
 cta_description: questions, comments, or concerns? please don't hesitate to reach out. # a description to be desplayed below the heading and above the content
-cta_button: mailto:saragong@usc.edu # a link to an external website or to media
+cta_button: mailto: # a link to an external website or to media
 cta_button_label: contact # the label on the button
 
 ---			
