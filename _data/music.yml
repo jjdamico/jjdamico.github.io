@@ -2,17 +2,7 @@
 # in the root directory
 
 music:
-  - category: Rumble
+  - category:
     items:
       - item: rumble.html
-        image: /images/NYC1.jpg # optionally, include the file path for an image for each item
-  - category: Los Angeles
-    items:
-      - item: example.html
-        image: /images/LA1.jpg
-      - item: example.html
-        image: /images/LA2.jpg
-      - item: example2.html
-        image: /images/LA3.jpg
-      - item: example3.html
-        image: /images/LA4.jpg
+      - item: youtube.html
