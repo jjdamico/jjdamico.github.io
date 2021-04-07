@@ -4,5 +4,4 @@
 music:
   - category:
     items:
-      - item: rumble.html
-      - item: youtube.html
+      - item: latest.html
