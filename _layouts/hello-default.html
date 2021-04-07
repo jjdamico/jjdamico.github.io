@@ -123,7 +123,7 @@
                 </header>
                 <p>{{ page.portfolio_description }}</p>
                 {% for categories in site.data[page.portfolio][page.portfolio] %}
-                <div class="row">
+                <div style="padding: 0 1em; text-align:center"> 
 
                           <div class="12u">
                               <h3 style="margin-bottom:2em; font-size:1.25em"><strong>{{ categories.category}}</strong></h3>
@@ -132,7 +132,7 @@
                           {% for items in categories.items %}
                           <div class="6u item">
                             <section>
-                              <p>{% include {{ items.item }} %}</p>
+                              {% include {{ items.item }} %}
                             </section>
                           </div>
                           {% endfor %}
