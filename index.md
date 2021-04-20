@@ -26,7 +26,7 @@ about_button: https://rumble.com/joedamico # the link
 about_button_label: Rumble # the label on the button
 about_button2: https://youtube.com/channel/UCwOZgrXfJi9ovBS5DNgx4vw # the link
 about_button2_label: YouTube # the label on the button
-about_button3: https://odysee.com # the link
+about_button3: https://odysee.com/@songsforthesoul:1 # the link
 about_button3_label: Odysee # the label on the button
 
 # optional portfolio section ------------------------------------------
