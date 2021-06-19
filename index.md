@@ -39,11 +39,11 @@ portfolio: music # the heading for your portfolio and title of your YAML file
 # optional CTA section --------------------------------------------------
 
 # By declaring these variables, you can include a CTA section.
-cta: connect # the heading for your CTA section
-cta_description: questions, comments, or concerns? please don't hesitate to reach out. # a description to be desplayed below the heading and above the content
+cta: contact # the heading for your CTA section
+cta_description: Questions, comments, or concerns? please don't hesitate to reach out via E-mail. # a description to be desplayed below the heading and above the content
 cta_button: mailto:saragong@usc.edu # a link to an external website or to media
 cta_button_label: contact # the label on the button
 
 ---			
 [//]: # (write a bit about yourself here)
-Here you can find links to various video sharing platforms hosting Christian music composed by Joe D'Amico.  Content is currently available on Rumble and YouTube, with more content regularly being added.  Check back for more updates.  Please Like, Subscribe, and Comment on my channels.  God Bless!
+Here you can find links to various video sharing platforms hosting Christian music composed by Joe D'Amico.  Content is currently available on Rumble, YouTube, and Odysee, with more content regularly being added.  Check back for more updates.  Please Like, Subscribe, and Comment on my channels.  God Bless!
