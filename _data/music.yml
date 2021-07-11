@@ -4,6 +4,7 @@
 music:
   - category:
     items:
+      - item: anchor.html    
       - item: stand.html
       - item: believe.html
       - item: itiswell.html
