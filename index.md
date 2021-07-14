@@ -35,7 +35,7 @@ about_button3_label: Odysee # the label on the button
 
 portfolio: music # the heading for your portfolio and title of your YAML file
 
-portfolio: hymns # the heading for your portfolio and title of your YAML file
+portfolio2: hymns # the heading for your portfolio and title of your YAML file
 #portfolio_description: Check out my newest content
 
 # optional CTA section --------------------------------------------------
