@@ -4,4 +4,4 @@
 country:
   - category:
     items:
-      - item: anchor.html
+      - item: anchor.markdown
