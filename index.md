@@ -56,6 +56,6 @@ Watch and listen to songs with a faith building message!
 
 Joe D'Amico is a songwriter, worship leader, and keyboard artist.  Below you can watch and listen to lyric videos of my music.  Music is organized into 3 categories, A Little Bit Country, A Little Bit Contemporary, and Hymns for Today.
 
-Additionally, here are the links to my channels on Rumble, YouTube, and Odysee,   Please Like, Subscribe, and Comment to the videos on my channels.  God Bless!
+Additionally, here are the links to my channels on Rumble, YouTube, and Odysee,   Please Like, Subscribe, and Comment to the videos on my channels.
 
-Check back for more updates with more content regularly being added.  Feel free to contact me with any questions, comments, or concerns.
+Check back for updates with more content being regularly added.  Feel free to contact me with any questions, comments, or concerns.  God Bless!
