@@ -63,7 +63,8 @@
           <li style="text-transform:lowercase"><a href="{{ page.page_url }}/#about">about</a></li>
           {% if page.portfolio %}
           <li style="text-transform:lowercase"><a href="{{ page.page_url }}/#{{ page.portfolio }}">{{ page.portfolio }}</a></li>
-          <li style="text-transform:lowercase"><a href="{{ page.page_url }}/#{{ page.portfolio2 }}">{{ page.portfolio2 }}</a></li>          
+          <li style="text-transform:lowercase"><a href="{{ page.page_url }}/#{{ page.portfolio2 }}">{{ page.portfolio2 }}</a></li>
+          <li style="text-transform:lowercase"><a href="{{ page.page_url }}/#{{ page.portfolio3 }}">{{ page.portfolio3 }}</a></li>                      
           {% endif %}
           {% if page.cta %}
           <li style="text-transform:lowercase"><a href="{{ page.page_url }}/#{{ page.cta }}"> {{ page.cta }} </a></li>
@@ -178,6 +179,37 @@
 
             </section>
             {% endif %}
+            
+            {% if page.portfolio3 %}
+            <section class="wrapper style3 container special" id="{{ page.portfolio3 }}">
+					      <header class="special">
+                  <h2><strong>{{ page.portfolio3 }}</strong></h2>
+                </header>
+                <p>{{ page.portfolio3_description }}</p>
+                {% for categories in site.data[page.portfolio3][page.portfolio3] %}
+                <div class="row">
+
+                          <div class="12u">
+                              <h3 style="margin-bottom:2em; font-size:1.25em"><strong>{{ categories.category}}</strong></h3>
+                          </div>
+
+                          {% for items in categories.items %}
+                          <div class="12u">
+                            <section>
+                              <div class="image featured">
+                                  <img src="{{ items.image }}" alt="" />
+                              </div>
+
+                              {% include {{ items.item }} %}
+                            </section>
+                          </div>
+                          {% endfor %}
+                </div>
+
+                {% endfor %}
+
+            </section>
+            {% endif %}            
             
       </article>
 
