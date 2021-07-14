@@ -1,4 +1,5 @@
 <iframe class="rumble" width="600" height="338" src="https://rumble.com/embed/vh3t51/?pub=hqayd" frameborder="0" allowfullscreen></iframe>
-<h1>Anchor of My Soul by Joe D'Amico</h1>
+
+***Anchor of My Soul by Joe D'Amico***
 
 This song is based around three important scriptures, and a personal life experience (God healed me of cancer!). In the New Testament, book of "Hebrews," we see our hope (our confident expectation of all we are and have 'in Christ') as an Anchor for the soul (Hebrews 6:19). Jesus also occupies the offices of High Priest (Hebrews 4:14-16) and Intercessor for us! (Hebrews 7:24-25).
