@@ -52,4 +52,10 @@ cta_button_label: contact # the label on the button
 
 ---			
 [//]: # (write a bit about yourself here)
-Here you can find links to various video sharing platforms hosting Christian music composed by Joe D'Amico.  Content is currently available on Rumble, YouTube, and Odysee, with more content regularly being added.  Check back for more updates.  Please Like, Subscribe, and Comment on my channels.  God Bless!
+Watch and listen to songs with a faith building message!
+
+Joe D'Amico is a songwriter, worship leader, and keyboard artist.  Below you can watch and listen to lyric videos of my music.  Music is organized into 3 categories, A Little Bit Country, A Little Bit Contemporary, and Hymns for Today.
+
+Additionally, here are the links to my channels on Rumble, YouTube, and Odysee,   Please Like, Subscribe, and Comment to the videos on my channels.  God Bless!
+
+Check back for more updates with more content regularly being added.  Feel free to contact me with any questions, comments, or concerns.
