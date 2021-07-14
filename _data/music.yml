@@ -11,7 +11,7 @@ music:
       - item: guardian.html
       - item: another.html
       
-hymns
+hymns:
   - category:
     items:
       - item: itiswell.html
