@@ -1,12 +1,7 @@
 # this file organizes the items in your portfolio, which are placed in the _includes folder
 # in the root directory
 
-music:
+hymns:
   - category:
     items:
-      - item: anchor.html    
-      - item: stand.html
-      - item: believe.html
       - item: itiswell.html
-      - item: guardian.html
-      - item: another.html
