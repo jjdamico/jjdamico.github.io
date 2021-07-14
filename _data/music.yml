@@ -10,3 +10,8 @@ music:
       - item: itiswell.html
       - item: guardian.html
       - item: another.html
+      
+hymns
+  - category:
+    items:
+      - item: itiswell.html
