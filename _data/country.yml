@@ -4,5 +4,6 @@
 country:
   - category:
     items:
+      - item: cominhome.html
       - item: rest.html
       - item: anchor.html
